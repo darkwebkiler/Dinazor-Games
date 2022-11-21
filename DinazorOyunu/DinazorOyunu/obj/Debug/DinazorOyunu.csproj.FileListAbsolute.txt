@@ -1,0 +1,10 @@
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\bin\Debug\DinazorOyunu.exe.config
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\bin\Debug\DinazorOyunu.exe
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\bin\Debug\DinazorOyunu.pdb
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.csproj.AssemblyReference.cache
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.Form1.resources
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.Properties.Resources.resources
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.csproj.GenerateResource.cache
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.csproj.CoreCompileInputs.cache
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.exe
+C:\Users\ogrenci\source\repos\DinazorOyunu\DinazorOyunu\obj\Debug\DinazorOyunu.pdb
